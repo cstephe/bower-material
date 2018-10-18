@@ -1,6 +1,6 @@
 {
   "name": "angular-material",
-  "version": "1.1.10-master-9be3821",
+  "version": "1.1.10#NPS-5285",
   "main": "index",
   "format": "cjs",
   "registry": "github",
@@ -28,7 +28,7 @@
   "homepage": "https://material.angularjs.org",
   "repository": {
     "type": "git",
-    "url": "git://github.com/angular/material.git"
+    "url": "git://github.com/cstephe/material.git#NPS-5285"
   },
   "license": "MIT",
   "licenses": [
